@@ -1,0 +1,34 @@
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\appsettings.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\Atividade avaliativa H1.staticwebassets.endpoints.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\Atividade avaliativa H1.exe
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\Atividade avaliativa H1.deps.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\Atividade avaliativa H1.runtimeconfig.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\Atividade avaliativa H1.dll
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\Atividade avaliativa H1.pdb
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\scopedcss\bundle\Atividade avaliativa H1.styles.css
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividad.161DE07C.Up2Date
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.dll
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\refint\Atividade avaliativa H1.dll
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.pdb
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\Atividade avaliativa H1.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Desktop\Códigos\Atividade avaliativa H1\Atividade avaliativa H1\obj\Debug\net10.0\ref\Atividade avaliativa H1.dll
