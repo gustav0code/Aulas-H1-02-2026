@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "Atividade_2_H1_2026.Controllers.PessoaController",
+    "Method": "Adicionar",
+    "RelativePath": "api/Pessoa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novaPessoa",
+        "Type": "Atividade_2_H1_2026.Models.Pessoa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Atividade_2_H1_2026.Controllers.PessoaController",
+    "Method": "BuscarTodas",
+    "RelativePath": "api/Pessoa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Atividade_2_H1_2026.Controllers.PessoaController",
+    "Method": "Atualizar",
+    "RelativePath": "api/Pessoa/{cpf}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dadosAtualizados",
+        "Type": "Atividade_2_H1_2026.Models.Pessoa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Atividade_2_H1_2026.Controllers.PessoaController",
+    "Method": "Remover",
+    "RelativePath": "api/Pessoa/{cpf}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Atividade_2_H1_2026.Controllers.PessoaController",
+    "Method": "BuscarPorCpf",
+    "RelativePath": "api/Pessoa/{cpf}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Atividade_2_H1_2026.Controllers.PessoaController",
+    "Method": "BuscarPorNome",
+    "RelativePath": "api/Pessoa/buscar-por-nome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Atividade_2_H1_2026.Controllers.PessoaController",
+    "Method": "BuscarPorImcBom",
+    "RelativePath": "api/Pessoa/imc-bom",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Atividade_2_H1_2026.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Atividade_2_H1_2026.WeatherForecast, Atividade 2 H1 2026, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

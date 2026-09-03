@@ -1,0 +1,34 @@
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\appsettings.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\Atividade 2 H1 2026.staticwebassets.endpoints.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\Atividade 2 H1 2026.exe
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\Atividade 2 H1 2026.deps.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\Atividade 2 H1 2026.runtimeconfig.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\Atividade 2 H1 2026.dll
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\Atividade 2 H1 2026.pdb
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\scopedcss\bundle\Atividade 2 H1 2026.styles.css
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividad.683E5069.Up2Date
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.dll
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\refint\Atividade 2 H1 2026.dll
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.pdb
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\Atividade 2 H1 2026.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Desktop\Atividade Controller\Atividade 2 H1 2026\Atividade 2 H1 2026\obj\Debug\net10.0\ref\Atividade 2 H1 2026.dll
