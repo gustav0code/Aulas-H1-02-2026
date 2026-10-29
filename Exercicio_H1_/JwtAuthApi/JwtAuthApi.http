@@ -1,0 +1,27 @@
+@JwtAuthApi_HostAddress = http://localhost:5010
+
+### Teste 1 — Login válido (200 OK + token)
+# @name login
+POST {{JwtAuthApi_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "usuario": "aluno",
+  "senha": "senha123"
+}
+
+### Teste 2 — Login inválido (401 Unauthorized)
+POST {{JwtAuthApi_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "usuario": "aluno",
+  "senha": "senhaErrada"
+}
+
+### Teste 3 — Rota protegida sem token (401 Unauthorized)
+GET {{JwtAuthApi_HostAddress}}/api/usuario/perfil
+
+### Teste 4 — Rota protegida com token válido (200 OK)
+GET {{JwtAuthApi_HostAddress}}/api/usuario/perfil
+Authorization: Bearer {{login.response.body.$.token}}
